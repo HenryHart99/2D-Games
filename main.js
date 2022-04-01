@@ -1,3 +1,0 @@
-console.log("Hello WORL!");
-CONSOKEDJHVBHA
-DOG IS BARKING
