@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+1>C:\Users\Stella Okoro\Documents\UNITY 2020.317\PROJECTS\3D Game\Assets\Scripts\Player.cs(20,46,20,47): warning CS0642: Possible mistaken empty statement
+1>  Assembly-CSharp -> C:\Users\Stella Okoro\Documents\UNITY 2020.317\PROJECTS\3D Game\Temp\Bin\Debug\Assembly-CSharp.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
